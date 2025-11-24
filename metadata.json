@@ -1,0 +1,7 @@
+{
+  "name": "Turkish On-Duty Pharmacy Finder",
+  "description": "Find accurate, real-time Nöbetçi Eczaneler (On-Duty Pharmacies) in Turkey using Google Search and Maps data.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
